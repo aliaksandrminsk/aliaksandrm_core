@@ -1,0 +1,12 @@
+
+# IDE
+.idea
+.DS_Store
+
+# Code
+/node_modules/
+/dist/
+
+# Analyzer
+stats.json
+
